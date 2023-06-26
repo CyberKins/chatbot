@@ -1,2 +1,2 @@
-# chatbot
-Chatbots for Bloggers.
+# Cyberkins
+Blogging with chatbots
